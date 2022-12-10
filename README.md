@@ -4,3 +4,4 @@ by @lazymaplekoi
 
 - Day 1: Smalltalk
 - Day 2: Python
+- Day 3: Python
